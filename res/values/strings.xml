@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">Force Fast Scroll</string>
+    <string name="title_activity_force_fastscroll">Force Fastscroll</string>
+    <string name="info">Tick apps to force fastscroll on them</string>
+    <string name="select_all">Select All</string>
+    <string name="invert">Invert</string>
+    <string name="save">Save</string>
+    <string name="xda">XDA</string>
+
 </resources>
